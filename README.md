@@ -8,3 +8,6 @@
 5.Render templates and use static assets
 6.Create the layout of the page using HTML tags
 7.Use the Bootstrap framework for faster development
+
+ 
+8.Functional and Aesthetic improvements
